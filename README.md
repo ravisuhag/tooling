@@ -1,5 +1,5 @@
 ## Tooling
-<img align="right" height="250" src="src/assets/img/icon.png">
+<img align="right" height="250" src="icon.png">
 
 >The open source initiative to create a JSON-based standard for developer tooling and workflows.
 
