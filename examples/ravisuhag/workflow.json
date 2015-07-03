@@ -1,0 +1,38 @@
+{
+    "name": "My frontend development workflow",
+    "version": "0.0.1",
+    "author": "Ravi Suhag",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ravisuhag/workflow-ravisuhag"
+    },
+    "type": "Workflow",
+    "description": "Ravi Suhag's frontend dev workflow.",
+    "languages": [{
+        "name": "Javascript",
+        "level" : "Expert"
+    }],
+    "tooling": [{
+        "title": "Boilerplates",
+        "description": "list of boilerplates i use",
+        "tools": [{
+            "name": "Twitter bootstrap",
+            "usingFrom": "2012",
+            "description": "staring point for me to start building",
+            "url": "https://www.getbootstrap.com",
+            "level": "Expert",
+            "review": "",
+            "tags": ["HTML", "CSS", "JS"]
+        }]
+    }, {
+        "title": "Editors",
+        "description": "My favourite editors",
+        "tools": [{
+            "name": "Sublime",
+            "usingFrom": "2010",
+            "description": "auto-accept defaults where possible",
+            "license": "",
+            "url": "https://www.sublimetext.com"
+        }]
+    }]
+}

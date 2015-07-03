@@ -1,0 +1,257 @@
+{
+  "name": "Tooling & The Webapp Development Stack",
+  "version": "0.0.1",
+  "author": "Paul Irish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravisuhag/tooling"
+  },
+  "description": "Let's dive into the latest improvements to developer tools that support your productivity in authoring JavaScript experiences.",
+  "tools": [{
+    "title": "HTML5 ★ BOILERPLATE",
+    "url": "http://html5boilerplate.com/",
+    "description": "The web’s most popular front-end template",
+    "categories": ["Boilerplates"],
+    "tags": ["HTML5", "Boilerplate"]
+  }, {
+    "title": "Blueprint",
+    "url": "http://blueprintcss.org/",
+    "description": "Blueprint is a CSS framework, which aims to cut down on your development time",
+    "categories": ["Boilerplates"],
+    "tags": ["grid", "typography"]
+  },{
+    "title": "Email-Boilerplate",
+    "url": "http://htmlemailboilerplate.com/",
+    "description": "The email boilerplate for sending out nicely formatted messages",
+    "categories": ["Boilerplates"],
+    "tags": ["grid", "typography"]
+  },{
+    "title": "Dojo Boilerplate",
+    "url": "https://github.com/csnover/dojo-boilerplate",
+    "description": "A starting point for developing with Dojo",
+    "categories": ["Boilerplates"],
+    "tags": ["dojo", "boilerplate", "Node", "Java"]
+  },{
+    "title": "jQuery Boilerplate",
+    "url": "http://jqueryboilerplate.com/",
+    "description": "Jump-starting jQuery plugins development",
+    "categories": ["Boilerplates"],
+    "tags": ["boilerplate", "jquery", "plugins"]
+  },{
+    "title": "SASS",
+    "url": "http://sass-lang.com/",
+    "description": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+    "categories": ["Styling"],
+    "tags": ["CSS", "precompiler"]
+  },{
+    "title": "Compass",
+    "url": "http://compass-style.org/",
+    "description": "Compass is an open-source CSS Authoring Framework",
+    "categories": ["Styling"],
+    "tags": ["CSS", "pre processor"]
+  },{
+    "title": "Compass",
+    "url": "http://compass-style.org/",
+    "description": "Compass is an open-source CSS Authoring Framework",
+    "categories": ["Styling"],
+    "tags": ["CSS", "pre processor"]
+  },{
+    "title": "Less",
+    "url": "http://lesscss.org/",
+    "description": "Less is a CSS pre-processor",
+    "categories": ["Styling"],
+    "tags": ["CSS", "pre processor"]
+  },{
+    "title": "closure-stylesheets",
+    "url": "https://code.google.com/p/closure-stylesheets/",
+    "description": "Closure Stylesheets is an extension to CSS that adds variables, functions, conditionals, and mixins to standard CSS",
+    "categories": ["Styling"],
+    "tags": ["CSS", "pre processor"]
+  },{
+    "title": "Stylus",
+    "url": "https://code.google.com/p/closure-stylesheets/",
+    "description": "Expressive, dynamic, robust CSS",
+    "categories": ["Styling"],
+    "tags": ["CSS", "pre processor"]
+  },{
+    "title": "Haml",
+    "url": "http://haml.info/",
+    "description": "Beautiful, DRY,well-indented, clear markup",
+    "categories": ["Markup"],
+    "tags": ["Markup"]
+  },{
+    "title": "Daring fireball markdown",
+    "url": "http://daringfireball.net/projects/markdown/",
+    "description": "Markdown is a text-to-HTML conversion tool for web writers",
+    "categories": ["Markup"],
+    "tags": ["Markup", "Markdown"]
+  },{
+    "title": "Jade",
+    "url": "http://jade-lang.com/",
+    "description": "Node templating engine",
+    "categories": ["Markup"],
+    "tags": ["Markup", "Node"]
+  },{
+    "title": "Handlebars",
+    "url": "http://handlebarsjs.com/",
+    "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration",
+    "categories": ["Markup"],
+    "tags": ["Markup", "JS"]
+  },{
+    "title": "Zencoding",
+    "url": "https://code.google.com/p/zen-coding/",
+    "description": "Set of plugins for HTML and CSS hi-speed coding",
+    "categories": ["Markup"],
+    "tags": ["Markup", "HTML"]
+  },{
+    "title": "Dart",
+    "url": "https://www.dartlang.org/",
+    "description": "https://www.dartlang.org/",
+    "categories": ["Scripting"],
+    "tags": ["Dart"]
+  },{
+    "title": "CoffeeScript",
+    "url": "http://coffeescript.org/",
+    "description": "CoffeeScript is a little language that compiles into JavaScript",
+    "categories": ["Scripting"],
+    "tags": ["Scripting"]
+  },{
+    "title": "Livereload",
+    "url": "http://livereload.com/",
+    "description": "CSS edits and image changes apply live",
+    "categories": ["Iteration Workflow"],
+    "tags": ["Iteration Workflow"]
+  },{
+    "title": "Codekit",
+    "url": "http://incident57.com/codekit/",
+    "description": "It's like steroids for web developers",
+    "categories": ["Iteration Workflow"],
+    "tags": ["Iteration Workflow"]
+  },{
+    "title": "Aptana",
+    "url": "http://www.aptana.com/",
+    "description": "The world’s most powerful open-source web development IDE just got better",
+    "categories": ["Editors"],
+    "tags": ["Editors"]
+  },{
+    "title": "Webstorm",
+    "url": "http://www.jetbrains.com/webstorm/",
+    "description": "The smartest JavaScript IDE",
+    "categories": ["Editors"],
+    "tags": ["Editors"]
+  },{
+    "title": "JS Hint",
+    "url": "http://jshint.com/",
+    "description": "a tool that helps to detect errors and potential problems in your JavaScript code",
+    "categories": ["Linting"],
+    "tags": ["Code linters"]
+  },{
+    "title": "Closure Linter",
+    "url": "https://developers.google.com/closure/utilities/?csw=1",
+    "description": "A utility that checks JavaScript files for style issues such as operator placement, missing semicolons, spacing, the presence of JsDoc annotations, and more",
+    "categories": ["Linting"],
+    "tags": ["Linting"]
+  },{
+    "title": "Browser Stack",
+    "url": "https://www.browserstack.com/",
+    "description": "Live, Web-Based Browser Testing",
+    "categories": ["Testing"],
+    "tags": ["Testing"]
+  },{
+    "title": "",
+    "url": "",
+    "description": "",
+    "categories": ["Testing"],
+    "tags": [""]
+  },{
+    "title": "QUnit",
+    "url": "http://qunitjs.com/",
+    "description": " A JavaScript Unit Testing framework",
+    "categories": ["Testing"],
+    "tags": ["Testing"]
+  },{
+    "title": "Jasmine",
+    "url": "http://jasmine.github.io/",
+    "description": "Behavior-Driven JavaScript",
+    "categories": ["Testing"],
+    "tags": [""]
+  },{
+    "title": "Testling",
+    "url": "https://ci.testling.com/",
+    "description": "Run your broswer test on every push",
+    "categories": ["Testing"],
+    "tags": [""]
+  },{
+    "title": "Selenium",
+    "url": "http://docs.seleniumhq.org/projects/",
+    "description": "Browser Automation",
+    "categories": ["Testing"],
+    "tags": [""]
+  },{
+    "title": "Watir WebDriver",
+    "url": "http://watirwebdriver.com/",
+    "description": "the most elegant way to use webdriver with ruby",
+    "categories": ["Testing"],
+    "tags": ["Watir", "testing"]
+  },{
+    "title": "Closure Compiler",
+    "url": "https://developers.google.com/closure/compiler/?csw=1",
+    "description": "The Closure Compiler is a tool for making JavaScript download and run faster",
+    "categories": ["Build"],
+    "tags": ["Closure"]
+  },{
+    "title": "YUI Compressor",
+    "url": "http://yui.github.io/yuicompressor/",
+    "description": "Yahoo compressor",
+    "categories": ["Build"],
+    "tags": ["Yahoo"]
+  },{
+    "title": "HTML Compressor",
+    "url": "https://code.google.com/p/htmlcompressor/",
+    "description": "HTML Compressor and Minifier",
+    "categories": ["Build"],
+    "tags": ["HTML"]
+  },{
+    "title": "Scour",
+    "url": "http://www.codedread.com/scour/",
+    "description": "Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents",
+    "categories": ["Build"],
+    "tags": ["Scour"]
+  },{
+    "title": "Image Optim",
+    "url": "https://imageoptim.com/",
+    "description": "ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality",
+    "categories": ["Build"],
+    "tags": ["Image"]
+  },{
+    "title": "OptiPNG",
+    "url": "http://optipng.sourceforge.net/",
+    "description": "Advanced PNG Optimizer",
+    "categories": ["Build"],
+    "tags": ["PNG"]
+  },{
+    "title": "Trimage",
+    "url": "http://trimage.org/",
+    "description": "A cross-platform tool for losslessly optimizing PNG and JPG files",
+    "categories": ["Build"],
+    "tags": ["Lossless", "Image"]
+  },{
+    "title": "PNG Quant",
+    "url": "https://pngquant.org/",
+    "description": "pngquant is a command-line utility and a library for lossy compression of PNG images",
+    "categories": ["Build"],
+    "tags": ["PNG"]
+  },{
+    "title": "imgmin",
+    "url": "https://github.com/rflynn/imgmin",
+    "description": "Lossy image optimization",
+    "categories": ["Build"],
+    "tags": ["img"]
+  },{
+    "title": "Grunt",
+    "url": "http://gruntjs.com/",
+    "description": "The JavaScript Task Runner",
+    "categories": ["Build"],
+    "tags": ["JS", "Task Runner"]
+  }]
+}
