@@ -253,5 +253,11 @@
     "description": "The JavaScript Task Runner",
     "categories": ["Build"],
     "tags": ["JS", "Task Runner"]
+  },{
+    "title": "Jenkins",
+    "url": "https://jenkins-ci.org/",
+    "description": "An extensible open source continuous integration server",
+    "categories": ["Deploy"],
+    "tags": ["JS", "Deploy"]
   }]
 }
