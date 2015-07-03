@@ -1,9 +1,8 @@
 ## Tooling
-<img align="right" height="300" src="src/assets/img/icon.png">
+<img align="right" height="250" src="src/assets/img/icon.png">
 
 >The open source initiative to create a JSON-based standard for developer tooling and workflows.
 
-#### What is the need ?
 In past few years ecosystem of tools has exploded and we have a lot more tools and techniques to help us build softwares. But with this growth comes complexity and confusion to come up with best tools to use. Productive developers in community surround themselves with powerful tools for different aspects of development and learn from each other's workflow. We believe that setting up a standard for developer tooling and workflows will allow developers to keep working productively and share it more effectively.
 
 ## What is tooling?
