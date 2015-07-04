@@ -12,6 +12,6 @@
         "url": "https://github.com/toolmate/tooling/issues"
     },
     "dependencies": {
-        "z-schema": "~2.4.8"
+        "z-schema": "3.0.x"
     }
 }

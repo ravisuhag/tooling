@@ -1,11 +1,6 @@
 {
-    "name": "Awesome Javascript Tooling",
-    "version": "0.0.1",
+    "title": "Awesome Javascript Tooling",
     "author": "Chencheng",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/sorrycc/awesome-javascript"
-    },
     "description": "A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
     "tools": [{
         "title": "npm",
@@ -1815,326 +1810,326 @@
         "tags": ["JS"]
     }, {
         "title": "card",
-        "href": "https://github.com/jessepollak/card",
-        "short_description": "— Make your credit card form better in one line of code.",
+        "url": "https://github.com/jessepollak/card",
+        "description": "— Make your credit card form better in one line of code.",
         "categories": ["Other"],
         "tags": ["JS"]
     }, {
         "title": "tipsy",
-        "href": "https://github.com/jaz303/tipsy",
-        "short_description": "— Facebook-style tooltips plugin for jQuery.",
+        "url": "https://github.com/jaz303/tipsy",
+        "description": "— Facebook-style tooltips plugin for jQuery.",
         "categories": ["Tips"],
         "tags": ["JS"]
     }, {
         "title": "opentip",
-        "href": "https://github.com/enyo/opentip",
-        "short_description": "— An open source javascript tooltip based on the prototype framework.",
+        "url": "https://github.com/enyo/opentip",
+        "description": "— An open source javascript tooltip based on the prototype framework.",
         "categories": ["Tips"],
         "tags": ["JS"]
     }, {
         "title": "qTip2",
-        "href": "https://github.com/qTip2/qTip2",
-        "short_description": "— Pretty powerful tooltips.",
+        "url": "https://github.com/qTip2/qTip2",
+        "description": "— Pretty powerful tooltips.",
         "categories": ["Tips"],
         "tags": ["JS"]
     }, {
         "title": "tooltipster",
-        "href": "https://github.com/iamceege/tooltipster",
-        "short_description": "— A jQuery tooltip plugin.",
+        "url": "https://github.com/iamceege/tooltipster",
+        "description": "— A jQuery tooltip plugin.",
         "categories": ["Tips"],
         "tags": ["JS"]
     }, {
         "title": "simptip",
-        "href": "https://github.com/arashmanteghi/simptip",
-        "short_description": "— A simple CSS tooltip made with Sass.",
+        "url": "https://github.com/arashmanteghi/simptip",
+        "description": "— A simple CSS tooltip made with Sass.",
         "categories": ["Tips"],
         "tags": ["JS"]
     }, {
         "title": "Magnific-Popup",
-        "href": "https://github.com/dimsemenov/Magnific-Popup",
-        "short_description": "— Light and responsive lightbox script with focus on performance.",
+        "url": "https://github.com/dimsemenov/Magnific-Popup",
+        "description": "— Light and responsive lightbox script with focus on performance.",
         "categories": ["Modals and Popups"],
         "tags": ["JS"]
     }, {
         "title": "jquery-popbox",
-        "href": "https://github.com/gristmill/jquery-popbox",
-        "short_description": "— jQuery PopBox UI Element.",
+        "url": "https://github.com/gristmill/jquery-popbox",
+        "description": "— jQuery PopBox UI Element.",
         "categories": ["Modals and Popups"],
         "tags": ["JS"]
     }, {
         "title": "jquery.avgrund.js",
-        "href": "https://github.com/voronianski/jquery.avgrund.js",
-        "short_description": "— A jQuery plugin with new modal concept for popups.",
+        "url": "https://github.com/voronianski/jquery.avgrund.js",
+        "description": "— A jQuery plugin with new modal concept for popups.",
         "categories": ["Modals and Popups"],
         "tags": ["JS"]
     }, {
         "title": "vex",
-        "href": "https://github.com/HubSpot/vex",
-        "short_description": "— A modern dialog library which is highly configurable and easy to style.",
+        "url": "https://github.com/HubSpot/vex",
+        "description": "— A modern dialog library which is highly configurable and easy to style.",
         "categories": ["Modals and Popups"],
         "tags": ["JS"]
     }, {
         "title": "bootstrap-modal",
-        "href": "https://github.com/jschr/bootstrap-modal",
-        "short_description": "— Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
+        "url": "https://github.com/jschr/bootstrap-modal",
+        "description": "— Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
         "categories": ["Modals and Popups"],
         "tags": ["JS"]
     }, {
         "title": "css-modal",
-        "href": "https://github.com/drublic/css-modal",
-        "short_description": "— A modal built out of pure CSS.",
+        "url": "https://github.com/drublic/css-modal",
+        "description": "— A modal built out of pure CSS.",
         "categories": ["Modals and Popups"],
         "tags": ["JS"]
     }, {
         "title": "scrollMonitor",
-        "href": "https://github.com/sakabako/scrollMonitor",
-        "short_description": "— A simple and fast API to monitor elements as you scroll.",
+        "url": "https://github.com/sakabako/scrollMonitor",
+        "description": "— A simple and fast API to monitor elements as you scroll.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "headroom",
-        "href": "https://github.com/WickyNilliams/headroom.js",
-        "short_description": "— Give your pages some headroom. Hide your header until you need it.",
+        "url": "https://github.com/WickyNilliams/headroom.js",
+        "description": "— Give your pages some headroom. Hide your header until you need it.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "onepage-scroll",
-        "href": "https://github.com/peachananr/onepage-scroll",
-        "short_description": "— Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.",
+        "url": "https://github.com/peachananr/onepage-scroll",
+        "description": "— Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "iscroll",
-        "href": "https://github.com/cubiq/iscroll",
-        "short_description": "— iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.",
+        "url": "https://github.com/cubiq/iscroll",
+        "description": "— iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "skrollr",
-        "href": "https://github.com/Prinzhorn/skrollr",
-        "short_description": "— Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.",
+        "url": "https://github.com/Prinzhorn/skrollr",
+        "description": "— Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "parallax",
-        "href": "https://github.com/wagerfield/parallax",
-        "short_description": "— Parallax Engine that reacts to the orientation of a smart device.",
+        "url": "https://github.com/wagerfield/parallax",
+        "description": "— Parallax Engine that reacts to the orientation of a smart device.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "stellar.js",
-        "href": "https://github.com/markdalgleish/stellar.js",
-        "short_description": "— Parallax scrolling made easy.",
+        "url": "https://github.com/markdalgleish/stellar.js",
+        "description": "— Parallax scrolling made easy.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "plax",
-        "href": "https://github.com/cameronmcefee/plax",
-        "short_description": "— jQuery powered parallaxing.",
+        "url": "https://github.com/cameronmcefee/plax",
+        "description": "— jQuery powered parallaxing.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "jparallax",
-        "href": "https://github.com/stephband/jparallax",
-        "short_description": "— jQuery plugin for creating interactive parallax effect.",
+        "url": "https://github.com/stephband/jparallax",
+        "description": "— jQuery plugin for creating interactive parallax effect.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "fullPage",
-        "href": "https://github.com/alvarotrigo/fullPage.js",
-        "short_description": "— A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).",
+        "url": "https://github.com/alvarotrigo/fullPage.js",
+        "description": "— A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "ScrollMenu",
-        "href": "https://github.com/s-yadav/ScrollMenu",
-        "short_description": "— A new interface to replace old boring scrollbar.",
+        "url": "https://github.com/s-yadav/ScrollMenu",
+        "description": "— A new interface to replace old boring scrollbar.",
         "categories": ["Scroll"],
         "tags": ["JS"]
     }, {
         "title": "jQuery-menu-aim",
-        "href": "https://github.com/kamens/jQuery-menu-aim",
-        "short_description": "— jQuery plugin to fire events when user’s cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon’s.",
+        "url": "https://github.com/kamens/jQuery-menu-aim",
+        "description": "— jQuery plugin to fire events when user’s cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon’s.",
         "categories": ["Menu"],
         "tags": ["JS"]
     }, {
         "title": "Slideout",
-        "href": "https://github.com/mango/slideout",
-        "short_description": "— A responsive touch slideout navigation menu for mobile web apps",
+        "url": "https://github.com/mango/slideout",
+        "description": "— A responsive touch slideout navigation menu for mobile web apps",
         "categories": ["Menu"],
         "tags": ["JS"]
     }, {
         "title": "jTable",
-        "href": "https://github.com/hikalkan/jtable",
-        "short_description": "— A JQuery plugin to create AJAX based CRUD tables.",
+        "url": "https://github.com/hikalkan/jtable",
+        "description": "— A JQuery plugin to create AJAX based CRUD tables.",
         "categories": ["Table/Grid"],
         "tags": ["JS"]
     }, {
         "title": "DataTables",
-        "href": "http://www.datatables.net/",
-        "short_description": "— (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.",
+        "url": "http://www.datatables.net/",
+        "description": "— (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.",
         "categories": ["Table/Grid"],
         "tags": ["JS"]
     }, {
         "title": "Semantic UI",
-        "href": "http://semantic-ui.com/",
-        "short_description": "— UI Kit with lots of themes and elements",
+        "url": "http://semantic-ui.com/",
+        "description": "— UI Kit with lots of themes and elements",
         "categories": ["Frameworks"],
         "tags": ["JS"]
     }, {
         "title": "hammer.js",
-        "href": "https://github.com/hammerjs/hammer.js",
-        "short_description": "— A javascript library for multi-touch gestures.",
+        "url": "https://github.com/hammerjs/hammer.js",
+        "description": "— A javascript library for multi-touch gestures.",
         "categories": ["Gesture"],
         "tags": ["JS"]
     }, {
         "title": "touchemulator",
-        "href": "https://github.com/hammerjs/touchemulator",
-        "short_description": "— Emulate touch input on your desktop.",
+        "url": "https://github.com/hammerjs/touchemulator",
+        "description": "— Emulate touch input on your desktop.",
         "categories": ["Gesture"],
         "tags": ["JS"]
     }, {
         "title": "Leaflet",
-        "href": "https://github.com/Leaflet/Leaflet",
-        "short_description": "— JavaScript library for mobile-friendly interactive maps.",
+        "url": "https://github.com/Leaflet/Leaflet",
+        "description": "— JavaScript library for mobile-friendly interactive maps.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "Cesium",
-        "href": "https://github.com/AnalyticalGraphicsInc/cesium",
-        "short_description": "— Open Source WebGL virtual globe and map engine.",
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium",
+        "description": "— Open Source WebGL virtual globe and map engine.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "gmaps",
-        "href": "https://github.com/HPNeo/gmaps",
-        "short_description": "— The easiest way to use Google Maps.",
+        "url": "https://github.com/HPNeo/gmaps",
+        "description": "— The easiest way to use Google Maps.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "polymaps",
-        "href": "https://github.com/simplegeo/polymaps",
-        "short_description": "— A free JavaScript library for making dynamic, interactive maps in modern web browsers.",
+        "url": "https://github.com/simplegeo/polymaps",
+        "description": "— A free JavaScript library for making dynamic, interactive maps in modern web browsers.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "kartograph.js",
-        "href": "https://github.com/kartograph/kartograph.js",
-        "short_description": "— Open source JavaScript renderer for Kartograph SVG maps.",
+        "url": "https://github.com/kartograph/kartograph.js",
+        "description": "— Open source JavaScript renderer for Kartograph SVG maps.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "mapbox.js",
-        "href": "https://github.com/mapbox/mapbox.js",
-        "short_description": "— Mapbox JavaScript API, a Leaflet Plugin.",
+        "url": "https://github.com/mapbox/mapbox.js",
+        "description": "— Mapbox JavaScript API, a Leaflet Plugin.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "jqvmap",
-        "href": "https://github.com/manifestinteractive/jqvmap",
-        "short_description": "— jQuery Vector Map Library.",
+        "url": "https://github.com/manifestinteractive/jqvmap",
+        "description": "— jQuery Vector Map Library.",
         "categories": ["Maps"],
         "tags": ["JS"]
     }, {
         "title": "velocity",
-        "href": "https://github.com/julianshapiro/velocity",
-        "short_description": "— Accelerated JavaScript animation.",
+        "url": "https://github.com/julianshapiro/velocity",
+        "description": "— Accelerated JavaScript animation.",
         "categories": ["Animations"],
         "tags": ["JS"]
     }, {
         "title": "jquery.transit",
-        "href": "https://github.com/rstacruz/jquery.transit",
-        "short_description": "— Super-smooth CSS3 transformations and transitions for jQuery.",
+        "url": "https://github.com/rstacruz/jquery.transit",
+        "description": "— Super-smooth CSS3 transformations and transitions for jQuery.",
         "categories": ["Animations"],
         "tags": ["JS"]
     }, {
         "title": "bounce.js",
-        "href": "https://github.com/tictail/bounce.js",
-        "short_description": "— Create tasty CSS3 powered animations in no time.",
+        "url": "https://github.com/tictail/bounce.js",
+        "description": "— Create tasty CSS3 powered animations in no time.",
         "categories": ["Animations"],
         "tags": ["JS"]
     }, {
         "title": "GreenSock-JS",
-        "href": "https://github.com/greensock/GreenSock-JS",
-        "short_description": "— High-performance HTML5 animations that work in all major browsers.",
+        "url": "https://github.com/greensock/GreenSock-JS",
+        "description": "— High-performance HTML5 animations that work in all major browsers.",
         "categories": ["Animations"],
         "tags": ["JS"]
     }, {
         "title": "TransitionEnd",
-        "href": "https://github.com/EvandroLG/transitionEnd",
-        "short_description": "— TransitionEnd is an agnostic and cross-browser library to work with transitionend event.",
+        "url": "https://github.com/EvandroLG/transitionEnd",
+        "description": "— TransitionEnd is an agnostic and cross-browser library to work with transitionend event.",
         "categories": ["Animations"],
         "tags": ["JS"]
     }, {
         "title": "Dynamic.js",
-        "href": "https://github.com/michaelvillar/dynamics.js",
-        "short_description": "— Javascript library to create physics-based CSS animations.",
+        "url": "https://github.com/michaelvillar/dynamics.js",
+        "description": "— Javascript library to create physics-based CSS animations.",
         "categories": ["Animations"],
         "tags": ["JS"]
     }, {
         "title": "lena.js",
-        "href": "https://github.com/davidsonfellipe/lena.js",
-        "short_description": "— A Library for image processing with filters and util functions.",
+        "url": "https://github.com/davidsonfellipe/lena.js",
+        "description": "— A Library for image processing with filters and util functions.",
         "categories": ["Image Processing"],
         "tags": ["JS"]
     }, {
         "title": "pica",
-        "href": "https://github.com/nodeca/pica",
-        "short_description": "— High quality image resize (with fast Lanczos filter, implemented in pure JS).",
+        "url": "https://github.com/nodeca/pica",
+        "description": "— High quality image resize (with fast Lanczos filter, implemented in pure JS).",
         "categories": ["Image Processing"],
         "tags": ["JS"]
     }, {
         "title": "es6features",
-        "href": "https://github.com/lukehoban/es6features",
-        "short_description": "— Overview of ECMAScript 6 features.",
+        "url": "https://github.com/lukehoban/es6features",
+        "description": "— Overview of ECMAScript 6 features.",
         "categories": ["ES6"],
         "tags": ["JS"]
     }, {
         "title": "ECMAScript 6 compatibility table",
-        "href": "http://kangax.github.io/compat-table/es6/",
-        "short_description": "— Compatibility tables for all ECMAScript 6 features on a variety of environments.",
+        "url": "http://kangax.github.io/compat-table/es6/",
+        "description": "— Compatibility tables for all ECMAScript 6 features on a variety of environments.",
         "categories": ["ES6"],
         "tags": ["JS"]
     }, {
         "title": "Babel (Formerly 6to5)",
-        "href": "https://github.com/babel/babel",
-        "short_description": "— Turn ES6+ code into vanilla ES5 with no runtime.",
+        "url": "https://github.com/babel/babel",
+        "description": "— Turn ES6+ code into vanilla ES5 with no runtime.",
         "categories": ["ES6"],
         "tags": ["JS"]
     }, {
         "title": "Traceur compiler",
-        "href": "https://github.com/google/traceur-compiler",
-        "short_description": "— ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.",
+        "url": "https://github.com/google/traceur-compiler",
+        "description": "— ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.",
         "categories": ["ES6"],
         "tags": ["JS"]
     }, {
         "title": "javascript-sdk-design",
-        "href": "http://github.com/huei90/javascript-sdk-design",
-        "short_description": "— Javascript SDK design guide extracted from work and personal experience",
+        "url": "http://github.com/huei90/javascript-sdk-design",
+        "description": "— Javascript SDK design guide extracted from work and personal experience",
         "categories": ["SDK"],
         "tags": ["JS"]
     }, {
         "title": "echo",
-        "href": "https://github.com/toddmotto/echo",
-        "short_description": "— Lazy-loading images with data-* attributes.",
+        "url": "https://github.com/toddmotto/echo",
+        "description": "— Lazy-loading images with data-* attributes.",
         "categories": ["Misc"],
         "tags": ["JS"]
     }, {
         "title": "picturefill",
-        "href": "https://github.com/scottjehl/picturefill",
-        "short_description": "— A responsive image polyfill for <picture>, srcset, sizes",
+        "url": "https://github.com/scottjehl/picturefill",
+        "description": "— A responsive image polyfill for <picture>, srcset, sizes",
         "categories": ["Misc"],
         "tags": ["JS"]
     }, {
         "title": "platform.js",
-        "href": "https://github.com/bestiejs/platform.js",
-        "short_description": "— A platform detection library that works on nearly all JavaScript platforms.",
+        "url": "https://github.com/bestiejs/platform.js",
+        "description": "— A platform detection library that works on nearly all JavaScript platforms.",
         "categories": ["Misc"],
         "tags": ["JS"]
     }, {
         "title": "json3",
-        "href": "https://github.com/bestiejs/json3",
-        "short_description": "— A modern JSON implementation compatible with nearly all JavaScript platforms.",
+        "url": "https://github.com/bestiejs/json3",
+        "description": "— A modern JSON implementation compatible with nearly all JavaScript platforms.",
         "categories": ["Misc"],
         "tags": ["JS"]
     }]

@@ -1,5 +1,4 @@
 {
-    "$schema": "http://json-schema.org/draft-04/schema#",
     "title": "Tooling Schema",
     "type": "object",
     "additionalProperties": false,
@@ -42,7 +41,7 @@
                         "description": "Specify all categories of this tool",
                         "additionalItems": false,
                         "items": {
-                            "type": "String",
+                            "type": "string",
                             "description": "e.g. IDE"
                         }
                     },
@@ -51,7 +50,7 @@
                         "description": "Specify all tags of this tool",
                         "additionalItems": false,
                         "items": {
-                            "type": "String",
+                            "type": "string",
                             "description": "e.g. IDE"
                         }
                     }
