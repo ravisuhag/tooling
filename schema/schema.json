@@ -1,0 +1,62 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Tooling Schema",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "title": {
+            "type": "string",
+            "description": "e.g. JS authoring tools"
+        },
+        "author": {
+            "type": "string",
+            "description": "e.g. John Doe"
+        },
+        "description": {
+            "type": "string",
+            "description": "e.g. awesome tools for javascript authoring"
+        },
+        "tools": {
+            "type": "array",
+            "description": "Specify all tools in this tooling list",
+            "additionalItems": false,
+            "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                    "title": {
+                        "type": "string",
+                        "description": "e.g. Aptana"
+                    },
+                    "url": {
+                        "type": "string",
+                        "description": "e.g. http://url.com",
+                        "format": "uri"
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "e.g. JS editor"
+                    },
+                    "categories": {
+                        "type": "array",
+                        "description": "Specify all categories of this tool",
+                        "additionalItems": false,
+                        "items": {
+                            "type": "String",
+                            "description": "e.g. IDE"
+                        }
+                    },
+                    "tags": {
+                        "type": "array",
+                        "description": "Specify all tags of this tool",
+                        "additionalItems": false,
+                        "items": {
+                            "type": "String",
+                            "description": "e.g. IDE"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

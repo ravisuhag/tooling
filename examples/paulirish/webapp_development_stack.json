@@ -1,11 +1,6 @@
 {
-  "name": "Tooling & The Webapp Development Stack",
-  "version": "0.0.1",
+  "title": "Tooling & The Webapp Development Stack",
   "author": "Paul Irish",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ravisuhag/tooling"
-  },
   "description": "Let's dive into the latest improvements to developer tools that support your productivity in authoring JavaScript experiences.",
   "tools": [{
     "title": "HTML5 ★ BOILERPLATE",
