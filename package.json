@@ -1,17 +1,17 @@
 {
-    "name": "tooling",
-    "version": "0.0.1",
-    "description": "Open standard tooling",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/toolmate/tooling.git"
-    },
-    "author": "Ravi Suhag",
-    "license": "BSD-2-Clause",
-    "bugs": {
-        "url": "https://github.com/toolmate/tooling/issues"
-    },
-    "dependencies": {
-        "z-schema": "3.0.x"
-    }
+  "name": "tooling",
+  "version": "0.0.1",
+  "description": "Open standard tooling",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/toolmate/tooling.git"
+  },
+  "author": "Ravi Suhag",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/toolmate/tooling/issues"
+  },
+  "dependencies": {
+    "z-schema": "3.0.x"
+  }
 }
