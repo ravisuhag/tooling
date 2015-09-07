@@ -14,7 +14,7 @@ Check out the most famous tooling list by Paul Irish in JSON format [Tooling & T
 Workflows matter. A designer–developer workflow is the set of steps used to achieve a goal and refers to the way designers and developers work. The tools used to achieve these goals play a vital role in the workflow. For a developer, these tools are suites such as Atom, Grunt, SASS or ROR. For a designer, these tools include art programs such as Adobe Photoshop, Sketch. Your workflow is about the tools you use and your experience while using them.
 
 ## Roadmap
-- To have a package system similar to NPM or Bower.
+- To have a package system like NPM, Bower and other package managers
 - Setting up platform to pick up tools out of community curated tooling list and create your own workflows.
 - Setting up cli to answer questions like ```fetch workflow -u paulirish frontend-workflow```
 
